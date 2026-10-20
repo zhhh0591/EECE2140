@@ -74,10 +74,7 @@ void process_rand(int low, int high, int& num_pos, int& num_neg, float )
     }
     total += cur_rand;
     }
-    if(verbose)
-    {
-        cout << endl;
-    }
+    if(verbose){cout << endl;}
 }
 
 using namespace std;
