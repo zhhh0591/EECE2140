@@ -21,3 +21,7 @@ Its column-major languages Stores column elements contiguously; the first dimens
 
 And we do talked about how to pass an array into a function
 
+class exercise :if we put two array into one function and there will returns the sum of them and the dot product of them 
+
+when home try to write two 2 -d arrays mutiply each other 
+and try to write two arrays to mutiply each other 
