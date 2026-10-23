@@ -17,7 +17,7 @@ void print_array(int array[], int size){ //passing array into a function
     }
     cout << "]" << endl;
 
-}
+} 
 
 int main(){
 
