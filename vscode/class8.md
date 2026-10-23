@@ -25,3 +25,6 @@ class exercise :if we put two array into one function and there will returns the
 
 when home try to write two 2 -d arrays mutiply each other 
 and try to write two arrays to mutiply each other 
+
+how to make a code 30% of time doing this and 70% of times to do this 
+buy using the rand()% number generater to do this
