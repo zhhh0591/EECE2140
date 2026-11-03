@@ -14,5 +14,5 @@ I'm using this repo to keep my class examples and assignments in one place and t
 
 ## Notes
 
-- Class files are named by lecture number, so `class5.cpp` is the code from the 5th class.
+- Class files are named by lecture number. 
 - This is a work in progress. I'll keep adding to it through the semester.
