@@ -8,7 +8,7 @@ to access or modify the actual value stored at the memory address the pointer is
 */
 
 #include<iostream>
-
+#include<string>
 using namespace std;
 float d[] = {};
 const int LEN = 5;
@@ -31,12 +31,30 @@ void change_Value3(int* value)
     }
         
 }
+/*
+    functional programming
+    object-oriented programming
+*/
+struct Employee{
+    string name;
+    int employee_ID;
+};
+
+
+class Student{
+    public:
+        string name;
+};
 
 
 int main(){
 
+
     float d[LEN] = {-1,4,6,-8,12};
     cout << d << " | " << *d << " | " << *(d + 1) << " | " << d + 1 << endl;
+
+
+
 
 
     // float a = 2.1;
